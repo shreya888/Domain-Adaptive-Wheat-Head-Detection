@@ -17,9 +17,6 @@ all the functionalities were tested in a Linux machine. ***
 ```
 ├── data
 │   └── *                   <- put the dataset.zip here before running
-├── results                 <- contains results about different metrics in different modes
-├── documents               <- original paper PDF
-├── notebooks               <- notebooks for explorations / prototyping
-├── experiments             <- code for all the experiments performed
 └── src                     <- all source code, internal org as needed
+└── report                  <- report on the project analysing results
 ```
